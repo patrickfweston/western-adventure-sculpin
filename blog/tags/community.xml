@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title><![CDATA[Katie and Patrick&#039;s Western Adventure]]></title>
-    <link href="http://palantirnet.github.io/academyhealth/blog/tags/community.xml" rel="self"/>
-    <link href="http://palantirnet.github.io/academyhealth/"/>
-    <updated>2016-08-26T02:59:54+00:00</updated>
-    <id>http://palantirnet.github.io/academyhealth/</id>
+    <link href="http://patrickfweston.github.io/western-adventure-sculpin/blog/tags/community.xml" rel="self"/>
+    <link href="http://patrickfweston.github.io/western-adventure-sculpin/"/>
+    <updated>2016-08-26T03:00:20+00:00</updated>
+    <id>http://patrickfweston.github.io/western-adventure-sculpin/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
             <title type="html"><![CDATA[Balrog]]></title>
-            <link href="http://palantirnet.github.io/academyhealth/blog/2012/10/16/balrog"/>
+            <link href="http://patrickfweston.github.io/western-adventure-sculpin/blog/2012/10/16/balrog"/>
             <updated>2012-10-16T00:00:00+00:00</updated>
-            <id>http://palantirnet.github.io/academyhealth/blog/2012/10/16/balrog</id>
+            <id>http://patrickfweston.github.io/western-adventure-sculpin/blog/2012/10/16/balrog</id>
             <content type="html"><![CDATA[<p>Found out about <a href="http://github.com/igorw/balrog">Balrog</a> today! It looks
 like a really nice micro static site generator. Maybe Sculpin and Balrog
 can be friends?</p>
