@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title><![CDATA[Katie and Patrick&#039;s Western Adventure]]></title>
-    <link href="http://patrickfweston.github.io/western-adventure-sculpin/blog/categories/testing.xml" rel="self"/>
-    <link href="http://patrickfweston.github.io/western-adventure-sculpin/"/>
-    <updated>2016-08-26T03:00:20+00:00</updated>
-    <id>http://patrickfweston.github.io/western-adventure-sculpin/</id>
+    <link href="https://patrickfweston.github.io/western-adventure-sculpin/blog/categories/testing.xml" rel="self"/>
+    <link href="https://patrickfweston.github.io/western-adventure-sculpin/"/>
+    <updated>2016-08-26T12:25:02+00:00</updated>
+    <id>https://patrickfweston.github.io/western-adventure-sculpin/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
             <title type="html"><![CDATA[Lorem Ipsum]]></title>
-            <link href="http://patrickfweston.github.io/western-adventure-sculpin/blog/2012/11/27/lorem-ipsum"/>
+            <link href="https://patrickfweston.github.io/western-adventure-sculpin/blog/2012/11/27/lorem-ipsum"/>
             <updated>2012-11-27T00:00:00+00:00</updated>
-            <id>http://patrickfweston.github.io/western-adventure-sculpin/blog/2012/11/27/lorem-ipsum</id>
+            <id>https://patrickfweston.github.io/western-adventure-sculpin/blog/2012/11/27/lorem-ipsum</id>
             <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat congue
 lacus vel convallis. Cras nisi urna, ultrices non semper quis, ultricies sit
 amet est. Donec nunc velit, consequat a pulvinar a, eleifend id leo. Curabitur
