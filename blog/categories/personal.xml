@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title><![CDATA[Sculpin Blog Skeleton]]></title>
-    <link href="http://patrickfweston.github.io/western-adventure-sculpin/blog/categories/personal.xml" rel="self"/>
-    <link href="http://patrickfweston.github.io/western-adventure-sculpin/"/>
-    <updated>2016-08-26T02:58:05+00:00</updated>
-    <id>http://patrickfweston.github.io/western-adventure-sculpin/</id>
+    <title><![CDATA[Katie and Patrick&#039;s Western Adventure]]></title>
+    <link href="http://palantirnet.github.io/academyhealth/blog/categories/personal.xml" rel="self"/>
+    <link href="http://palantirnet.github.io/academyhealth/"/>
+    <updated>2016-08-26T02:59:54+00:00</updated>
+    <id>http://palantirnet.github.io/academyhealth/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
             <title type="html"><![CDATA[Balrog]]></title>
-            <link href="http://patrickfweston.github.io/western-adventure-sculpin/blog/2012/10/16/balrog"/>
+            <link href="http://palantirnet.github.io/academyhealth/blog/2012/10/16/balrog"/>
             <updated>2012-10-16T00:00:00+00:00</updated>
-            <id>http://patrickfweston.github.io/western-adventure-sculpin/blog/2012/10/16/balrog</id>
+            <id>http://palantirnet.github.io/academyhealth/blog/2012/10/16/balrog</id>
             <content type="html"><![CDATA[<p>Found out about <a href="http://github.com/igorw/balrog">Balrog</a> today! It looks
 like a really nice micro static site generator. Maybe Sculpin and Balrog
 can be friends?</p>
@@ -18,9 +18,9 @@ can be friends?</p>
         </entry>
             <entry>
             <title type="html"><![CDATA[Symfony Live Hacking Day!]]></title>
-            <link href="http://patrickfweston.github.io/western-adventure-sculpin/blog/2012/09/29/symfony-live-hacking-day"/>
+            <link href="http://palantirnet.github.io/academyhealth/blog/2012/09/29/symfony-live-hacking-day"/>
             <updated>2012-09-29T00:00:00+00:00</updated>
-            <id>http://patrickfweston.github.io/western-adventure-sculpin/blog/2012/09/29/symfony-live-hacking-day</id>
+            <id>http://palantirnet.github.io/academyhealth/blog/2012/09/29/symfony-live-hacking-day</id>
             <content type="html"><![CDATA[<p>Fun times at the Symfony Live San Francisco 2012 Hacking Day! Code
 was hacked and pizza was had. Some pics of the conference are
 available on the <a href="https://www.facebook.com/media/set/?set=a.450514941665306.112810.129739647076172">Sensio Labs Facebook page</a>.</p>
@@ -28,9 +28,9 @@ available on the <a href="https://www.facebook.com/media/set/?set=a.450514941665
         </entry>
             <entry>
             <title type="html"><![CDATA[Happy Birthday Sculpin!]]></title>
-            <link href="http://patrickfweston.github.io/western-adventure-sculpin/blog/2011/12/20/happy-birthday-sculpin"/>
+            <link href="http://palantirnet.github.io/academyhealth/blog/2011/12/20/happy-birthday-sculpin"/>
             <updated>2011-12-20T00:00:00+00:00</updated>
-            <id>http://patrickfweston.github.io/western-adventure-sculpin/blog/2011/12/20/happy-birthday-sculpin</id>
+            <id>http://palantirnet.github.io/academyhealth/blog/2011/12/20/happy-birthday-sculpin</id>
             <content type="html"><![CDATA[<p>The first commit to the Sculpin repository was made on December 20th, 2011.
 What a trip since then!</p>
 
